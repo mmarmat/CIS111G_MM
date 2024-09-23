@@ -1,0 +1,31 @@
+1. NumPy https://numpy.org
+NumPy seems to be a widely used python library for accelerating numeric equations, specifically ones involving arrays.
+NumPy allows for the use of multi-dimensional arrays in python, I already have experience using arrays and multi-dimensional
+arrays in java already. NumPy looks to be a good pick to me to make python more like java, the programming language I have the most
+experience in.
+
+2. Django https://www.djangoproject.com
+Django looks pretty interesting to me, as it delves into a more commerical and practical usage. Django helps speed up website
+development, with essentially plug and play shortcuts, less repeating parts of a website that don't need to be repeated.
+Django is used in numerous professional settings, with the most well known service that uses django being Instagram. 
+I don't see much interest in django currently, but that will most likely change in my future as a software developer,
+I may be required to use it or it may be a tool that could help me immensely.
+
+3. Pandas https://pandas.pydata.org
+Pandas doesnt look very different from NumPy, especially since Pandas is built ontop of NumPy. Pandas is used primarily for
+data manipulation, it has a 1 dimensional array built with NumPy called a series that allows arithmetic operations with its array
+objects, like series_1 + series_2 = series_3, it would add both values and put it in series_3 automatically. Pandas seems to work
+very closely with NumPy and I think I would probably use both at the same time.
+
+4. PyGame https://www.pygame.org/
+PyGame is a library mostly used for game development using python, I am not super privvy into what it does specifically.
+I have seen that it has computer graphics and sound effects. I don't have too much experience with game development, but it
+is the most exciting scope of computer science to me, even if I don't end up following through with game development eventually
+I may be able to make use of PyGame still, as even if I don't find a job opportunity with game development it is still one of my
+main passions, one of the things that got me into computer science in general.
+
+5. bob https://www.idiap.ch/software/bob/
+bob can help users with its toolkit for machine learning, it allows for image, audio, and visual processing. I think machine learning
+is a very interesting route of technology current on the rise. I personally think the current uses with bob seem to be very interesting
+to me. I think it may be useful to keep up with for the future, I can see machine learning become integrated into a lot of important parts
+of society.
